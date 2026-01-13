@@ -1,0 +1,15 @@
+{
+    "date": "2026-01-12",
+    "wallet": {
+        "opening_balance": 0.0,
+        "money_in": [],
+        "money_out": [],
+        "remaining_balance": 0.0
+    },
+    "bkash": {
+        "opening_balance": 0.0,
+        "money_in": [],
+        "money_out": [],
+        "remaining_balance": 0.0
+    }
+}
